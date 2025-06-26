@@ -10,7 +10,7 @@ My work includes:
 
 This GitHub contains personal projects, scripts, writeups, and learning material.
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/egoist10.png)](https://tryhackme.com/p/egoist10)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/egoist10.png)
 
 
 ---
