@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Mohamed Saifudeen
 
-<!--
-**MohamedSaifudeen/MohamedSaifudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning and building skills in cybersecurity with a focus on practical, hands-on experience.
 
-Here are some ideas to get you started:
+My work includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Active learning on **TryHackMe** (SOC Level 1, offensive labs)
+- Writing **walkthroughs** for completed rooms
+- Exploring web application vulnerabilities
+
+This GitHub contains personal projects, scripts, writeups, and learning material.
+
+---
+
+## 📍 Currently Focusing On
+
+- TryHackMe SOC Level 1 path
+
+---
+
+## 🔗 Profiles
+
+- GitHub: [MohamedSaifudeen](https://github.com/MohamedSaifudeen)
+- TryHackMe: [egoist10](https://tryhackme.com/p/egoist10)
