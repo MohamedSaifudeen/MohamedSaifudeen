@@ -12,7 +12,7 @@ This GitHub contains personal projects, scripts, writeups, and learning material
 
 ---
 
-## 📍 Currently Focusing On
+## Currently Focusing On
 
 - TryHackMe SOC Level 1 path
 
