@@ -1,4 +1,4 @@
-# 👨‍💻 Mohamed Saifudeen
+# Mohamed Saifudeen
 
 I'm currently learning and building skills in cybersecurity with a focus on practical, hands-on experience.
 
