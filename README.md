@@ -1,6 +1,6 @@
 # Mohamed Saifudeen
 
-I'm currently learning and building skills in cybersecurity with a focus on practical, hands-on experience.
+I'm currently learning and building skills in cybersecurity with a focus on SOC operations.
 
 My work includes:
 
@@ -21,4 +21,5 @@ This GitHub contains personal projects, scripts, writeups, and learning material
 ## 🔗 Profiles
 
 - GitHub: [MohamedSaifudeen](https://github.com/MohamedSaifudeen)
+- Linkedin: [Mohamed Saifudeen](https://www.linkedin.com/in/mohamedsaifudeen/)
 - TryHackMe: [egoist10](https://tryhackme.com/p/egoist10)
