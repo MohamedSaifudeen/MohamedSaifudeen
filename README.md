@@ -20,6 +20,5 @@ This GitHub contains personal projects, scripts, writeups, and learning material
 
 ## 🔗 Profiles
 
-- GitHub: [MohamedSaifudeen](https://github.com/MohamedSaifudeen)
 - Linkedin: [Mohamed Saifudeen](https://www.linkedin.com/in/mohamedsaifudeen/)
-- TryHackMe: [egoist10](https://tryhackme.com/p/egoist10)
+- [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RogueHawk.png)](https://tryhackme.com/p/RogueHawk)
