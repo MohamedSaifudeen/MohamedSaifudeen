@@ -1,24 +1,25 @@
 # Mohamed Saifudeen M
 
-I'm currently learning and building skills in cybersecurity with a focus on SOC operations.
+I'm currently learning and honing my expertise in cybersecurity, specializing in SOC operations.  
 
 My work includes:
 
-- Active learning on **TryHackMe** (SOC Level 1, offensive labs)
-- Writing **walkthroughs** for Blue Team rooms
+- Active learning on TryHackMe (SOC Level 1 path and challenges)
+- Building and configuring home labs
+- Writing walkthroughs for Blue Team rooms
 - Exploring web application vulnerabilities
 
 This GitHub contains personal projects, scripts, writeups, and learning material.
 
 ---
 
-## Currently Focusing On
+## Currently Working On
 
 - TryHackMe SOC Level 1 path
-
+- Enterprise 101 Lab
 ---
 
 ## 🔗 Profiles
 
-- Linkedin: [Mohamed Saifudeen](https://www.linkedin.com/in/mohamedsaifudeen/)
-- [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RogueHawk.png)](https://tryhackme.com/p/RogueHawk)
+- **Linkedin:** [Mohamed Saifudeen](https://www.linkedin.com/in/mohamedsaifudeen/)
+- **TryHackMe:** [RogueHawk](https://tryhackme.com/p/RogueHawk)
